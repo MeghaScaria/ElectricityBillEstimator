@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Customer customer = new Customer();
+        // default values for custom data type in c# .NET
         Bill? bill = null;
 
         BillCalculator calculator = new BillCalculator();

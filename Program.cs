@@ -27,7 +27,7 @@ class Program
                     customer.CustomerId = customerId;
 
                     Console.Write("Enter Customer Name: ");
-                    customer.CustomerName = Console.ReadLine() ?? "";
+                    customer.CustomerName = Console.ReadLine() ?? ""; // null-coalescing operator
 
                     Console.Write("Enter Units Consumed: ");
                     int.TryParse(Console.ReadLine(), out int units);

@@ -1,3 +1,5 @@
+using ElectricityBillEstimator.Views;
+
 public class MenuView
 {
     /// <summary>
@@ -47,6 +49,7 @@ public class MenuView
             switch (Choice)
             {
                 case 1:
+                    CustomerFormView.DisplayMenu();
                     //await HomeView.Instance.View();
                     break;
 

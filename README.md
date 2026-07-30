@@ -113,16 +113,34 @@ Through this project, I practiced:
 
 ---
 
-## Outputs
-Test Case 1 : Choosing to display bill and clear bill before entering details
-<img width="454" height="487" alt="image" src="https://github.com/user-attachments/assets/2eca9395-a158-4ee3-9a78-733639030df8" />
+## 📷 Outputs
 
-Test Case 2 : Entering invalid input for 'units consumed' and 'rate per unit' fields
-<img width="478" height="665" alt="image" src="https://github.com/user-attachments/assets/17df5e0c-59c8-4aca-88c6-f3c471efca9c" />
+<details>
+<summary><b>Test Case 1 - Display Bill Before Calculation</b></summary>
 
-Test Case 3 : Valid input and printing the bill on the console
-<img width="505" height="939" alt="image" src="https://github.com/user-attachments/assets/040dfb5c-a246-4f4d-ab5a-d7b8288a98cc" />
+<br>
 
+<img src="https://github.com/user-attachments/assets/2eca9395-a158-4ee3-9a78-733639030df8" width="500"/>
+
+</details>
+
+<details>
+<summary><b>Test Case 2 - Invalid Input Validation</b></summary>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/17df5e0c-59c8-4aca-88c6-f3c471efca9c" width="500"/>
+
+</details>
+
+<details>
+<summary><b>Test Case 3 - Successful Bill Calculation</b></summary>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/040dfb5c-a246-4f4d-ab5a-d7b8288a98cc" width="500"/>
+
+</details>
 
 ## 👨‍💻 Author
 

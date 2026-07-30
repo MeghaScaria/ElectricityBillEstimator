@@ -113,7 +113,6 @@ Through this project, I practiced:
 
 ---
 
-
 ## Outputs
 Test Case 1 : Choosing to display bill and clear bill before entering details
 <img width="454" height="487" alt="image" src="https://github.com/user-attachments/assets/2eca9395-a158-4ee3-9a78-733639030df8" />

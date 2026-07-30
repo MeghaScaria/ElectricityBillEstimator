@@ -1,9 +1,11 @@
 using System;
+using System.Text;
 
 class Program
 {
     static void Main(string[] args)
     {
+        Console.OutputEncoding = Encoding.UTF8;
         Customer customer = new Customer();
         // default values for custom data type in c# .NET
         Bill? bill = null;
@@ -105,6 +107,11 @@ class Program
                     break;
 
                 case 3:
+
+                    if(bill == null){
+                        Console.WriteLine("No details to clear");
+                        break;
+                    }
 
                     customer = new Customer();
                     bill = null;
